@@ -6,10 +6,6 @@ published: true
 last_updated: 2019-01-14
 ---
 
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
 In an [episode of the North Star Podcast with David Perrell](https://www.listennotes.com/podcasts/north-star-podcast/daniel-gross-dreams-and-e8iC1HhrjDt/), the software entrepreneur Daniel Gross said something that I thought was very wise:
 
 >  The definition of a habit, for me, is something that doesn't require willpower. How can I build a large collection of habits that are healthy—that are correct—and save them to RAM in my head so that I don't have to think about them? I would like to have that done by the end of my 20s. I'd like to be in a good place in terms of body composition, in terms of what I eat, in terms of how I work, so that I can spend the rest of my life not thinking about that stuff.
