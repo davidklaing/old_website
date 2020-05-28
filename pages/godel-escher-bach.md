@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gödel, Escher, Bach in 34 propositions
+title: "Gödel, Escher, Bach in 34 propositions"
 permalink: /godel-escher-bach/
 published: true
 last_updated: 2020-01-02

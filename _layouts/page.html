@@ -1,28 +1,23 @@
 ---
 layout: default
 ---
-<article class="page">
-    <div class="container">
-        <div class="col-8 col-m-7 col-s-12 article-content">
-            <div class="article-component">
-                {% if page.title != "davidklaing.com" and page.title != "Subscribe" %}
-                <h1>{{ page.title }}</h1>
-                {% endif %}
-                {% if page.last_updated %}
-                <hr>
-                <em>Last updated {{ page.last_updated }}</em>
-                <hr>
-                {% endif %}
-                {{ content }}
-            </div>
-        </div>
-        <div class="col-4 col-m-5 col-s-12 article-backlinks">
-            <div class="article-component">
-                {% if page.backlinks %}
-                <h1>Links to this page</h1>
-                {{ page.backlinks }}
-                {% endif %}
-            </div>
-        </div>
-    </div>
+<article class="post">
+
+  <header class="post-header">
+    <p>{{ page.nav_link }} </p>
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p><i>{{ page.last_updated }}</i></p>
+  </header>
+
+  <div class="article-content">
+    {{ content }}
+  </div>
+  <footer class="article-footer">
+
+    <hr/>
+  
+    {% include author.html %}
+  
+    </footer>
+  {% include analytics.html %}
 </article>

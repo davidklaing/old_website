@@ -1,12 +1,9 @@
 ---
 layout: page
-title: Roam as a slip-box
+title: "Roam as a slip-box"
 permalink: /roam-as-a-slip-box/
 published: true
 last_updated: 2020-02-01
-backlinks: <ul><li><a id="scrapbook" class="internal-link" href="/scrapbook/">Scrapbook</a></li></ul>
-tooltips: 
-- path: tooltip_scrapbook.js
 ---
 
 ## The slip-box method

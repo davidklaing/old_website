@@ -1,15 +1,9 @@
 ---
 layout: page
-title: Covers shouldn’t just be for musicians
+title: "Covers shouldn't just be for musicians"
 permalink: /covers-shouldnt-just-be-for-musicians/
 published: true
 last_updated: 2019-12-04
-backlinks: <ul><li><a id="essays" class="internal-link" href="/essays/">Essays</a></li></ul>
-tooltips: 
-- path: tooltip_solved-conversations.js
-- path: tooltip_research-as-a-stochastic-decision-process.js
-- path: tooltip_deep-laziness.js
-- path: tooltip_essays.js
 ---
 
 When aspiring musicians first learn to play their instruments, they rarely start composing their own songs immediately. Most start by learning to play the songs of others. This allows them to focus on skills like intonation, dynamics, and tempo. The skill of composition can wait until they have developed good playing technique.
@@ -50,9 +44,9 @@ Look, I get it: we want to be recognized for our own ideas. And when the origina
 
 Covers exist in other domains too: scientists reproduce other scientists’ experiments; chefs reproduce other chefs’ recipes; painters reproduce other painters’ paintings. If you’re a writer, why not try your hand at reproducing another writer’s work? I've been doing this for the past few months. Here are a few examples:
 
-* <a id="deep-laziness" class="internal-link" href="/deep-laziness/">Deep Laziness — Sarah Perry</a>
-* <a id="solved-conversations" class="internal-link" href="/solved-conversations/">Solved conversations — Aaron Z. Lewis</a>
-* <a id="research-as-a-stochastic-decision-process" class="internal-link" href="/research-as-a-stochastic-decision-process/">Research as a stochastic decision process — Jacob Steinhardt</a>
+* [Deep Laziness, by Sarah Perry](https://davidklaing.com/deep-laziness)
+* [Solved Conversations, by Aaron Z. Lewis](https://davidklaing.com/solved-conversations)
+* [Research as a Stochastic Decision Process, by Jacob Steinhardt](https://davidklaing.com/research-as-a-stochastic-decision-process)
 
 It's been great exercise for my writing muscles, and I now have enough "original"<sup>2</sup> ideas to last me several blog posts. Even if those ideas run dry, I don't have to worry about writer's block. If my own ideas aren't flowing, I can just cover someone else's.
 

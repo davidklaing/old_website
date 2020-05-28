@@ -1,1 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: David Laing
+email: davidkendalllaing@gmail.com
+description: "Data scientist building better standardized tests. Thinking about skill development, communication norms, and the power of paraphrasing."
+url: "https://davidklaing.github.io" # the base hostname & protocol for your site
+twitter_username: davidklaing
+github_username:  davidklaing
+
+# Build settings
 markdown: kramdown
+
+# used this for post_excerpt at index_page
+excerpt_separator: <!--description-->
+
+plugins: 
+  - jekyll-twitter-plugin

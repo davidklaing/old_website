@@ -1,12 +1,9 @@
 ---
 layout: page
-title: How to invest in index funds, for Canadians
+title: "How to invest in index funds, for Canadians"
 permalink: /how-to-invest-in-index-funds/
 published: true
 last_updated: 2020-02-11
-backlinks: <ul><li><a id="scrapbook" class="internal-link" href="/scrapbook/">Scrapbook</a></li></ul>
-tooltips: 
-- path: tooltip_scrapbook.js
 ---
 
 Several friends have told me that they've read enough about investing to know that it's best for non-professional investors to use index funds. But they don't know how. Like, literally: what buttons should they press? I'm not a financial advisor, but here's a system that works for me, as a Canadian:

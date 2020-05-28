@@ -1,14 +1,16 @@
 ---
 layout: page
-title: The Righteous Mind
+title: "The Righteous Mind"
 permalink: /righteous-mind/
-last_updated: 2016-09-01
 published: true
+last_updated: 2016-09-01
 ---
 
-This is a chapter-by-chapter summary of Jonathan Haidt’s book, <a class="external-link" target="_self" href="https://righteousmind.com/">The Righteous Mind: Why Good People Are Divided by Politics and Religion</a>.
+I think everyone should read Jonathan Haidt's book, [*The Righteous Mind: Why Good People Are Divided by Politics and Religion*](http://righteousmind.com/). But if you don't have time, you can read my detailed summary here.
 
-## Overview
+______________________________
+
+### Overview
 
 How do people think about right and wrong? This is an empirical question, and *The Righteous Mind*’s primary goal is to answer it. The psychologist Jonathan Haidt tells the story of how his research led him to formulate Moral Foundations Theory, which claims that the human mind responds to combinations of six moral “taste receptors”: Care, Liberty, Fairness, Authority, Loyalty, and Sanctity. 
 
@@ -18,7 +20,7 @@ In the final chapter, Haidt transitions from description to prescription, offeri
 
 ## Chapter Summaries
 
-### Introduction
+#### Introduction
 
 Because this book aims to describe the psychology of morality, it might have made sense to title it The Moral Mind. However, “righteous” better captures a feature of the mind that is crucial for understanding why we hold ourselves to certain principles: we hold each other to those principles too. We are righteous, moralistic, and judgmental. These qualities are crucial for maintaining safe and productive societies, but they also lead to much enmity and moralistic strife within our communities. In order to parlay this strife into the mutually beneficial conversations that should be possible in democratic societies, we must first recognize that we are all hypocrites, that we all mean well, and that we will understand each other better if we first understand ourselves.
 
@@ -139,6 +141,6 @@ In Haidt’s opinion, liberals offer two crucial insights that other groups tend
 
 To build a healthy society, we should aim not to wipe out ideologies that differ from our own, but to recognize that each political group is made up of good people who have important things to say.
 
-### Conclusion
+#### Conclusion
 
 Haidt concludes the book by reminding the reader of the central metaphors in each section. In Part I, he explained that intuitions come first, reasoning second. He advises that as a souvenir from this section of the book, we should keep a vision of ourselves and everyone around us as tiny riders on massive elephants. In Part II, he explained that there is more to morality than harm and fairness. As a souvenir from this section, we should keep a healthy suspicion of anyone who claims there is a single morality that is appropriate for all societies at all times. Lastly, in Part III, he explained that we are 90 percent chimp, 10 percent bee. As a souvenir from this final section, we should keep the image of the hive switch, which can engage our moral emotions and enable us to become selfless parts of a greater whole.
